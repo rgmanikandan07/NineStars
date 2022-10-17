@@ -1,0 +1,27 @@
+.container{
+    width: 1200px;
+    margin: auto;
+    box-sizing: border-box; 
+}
+/* header start  */
+.head h1{
+    font-weight: 100;
+    font-size: 40px;
+}
+.header-flex{
+    display: flex;
+    justify-content: space-between;
+}
+.header-list{
+    display: flex;
+}
+.header-list li{
+    list-style-type: none;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.header-list button{
+    margin-left: 20px;
+    border: none;
+}
+/* header ends */
